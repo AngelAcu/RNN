@@ -27,12 +27,12 @@ Los resultados obtenidos se encuentran en la carpeta `results/`.
 
 ## 5. Instalación y ejecución
 
-Crear un entorno virtual e instalar las dependencias:
+Crear un entorno virtual y activarlo:
 1. python -m venv .venv
-2. pip install -r requirements.txt
+2. .venv\Scripts\activate
 
-En Windows, activar el entorno virtual con:
-3. .venv\Scripts\activate
+Instalar dependencias:
+3. pip install -r requirements.txt
 
 Ejecutar la aplicación:
 4. python -m streamlit run app.py
