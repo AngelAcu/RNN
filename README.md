@@ -1,4 +1,4 @@
-# Clasificación de sentimientos con una red LSTM
+# Clasificación de sentimientos
 
 ## 1. Descripción del proyecto
 
